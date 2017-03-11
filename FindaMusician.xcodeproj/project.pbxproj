@@ -300,6 +300,7 @@
 				3AC05D341E4A2C12002CB7F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
